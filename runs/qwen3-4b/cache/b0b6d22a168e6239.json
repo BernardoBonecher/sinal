@@ -1,0 +1,50 @@
+{
+ "record": {
+  "key": "b0b6d22a168e6239",
+  "label": "extract P6",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 219.11,
+  "prompt_tokens": 731,
+  "completion_tokens": 520
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P6 prefere manter o controle manual de pagamentos por simplicidade e confiança no sistema atual",
+    "kind": "comportamento",
+    "quote": "Já baixei dois desses e larguei os dois. Eles cobram taxa por transação e os alunos estranham receber boleto de empresa. A planilha resolve.",
+    "turn": 8
+   },
+   {
+    "claim": "P6 não separa receitas do trabalho de suas despesas pessoais",
+    "kind": "dor",
+    "quote": "Eu não sei separar o que é do trabalho e o que é meu. No fim do mês eu olho o saldo e se sobrou, sobrou.",
+    "turn": 10
+   },
+   {
+    "claim": "P6 tem dificuldade com a emissão de notas fiscais, mesmo sendo MEI",
+    "kind": "dor",
+    "quote": "Quase nunca emito, porque aluno não pede. Quando uma empresa me contratou pra uma aula de ginástica laboral, eu precisei emitir e não fazia ideia de como. Pedi ajuda pra minha irmã, que é contadora, e mesmo assim deu erro no site duas vezes.",
+    "turn": 12
+   },
+   {
+    "claim": "P6 sente falta de transparência sobre seus ganhos reais",
+    "kind": "desejo",
+    "quote": "Saber quanto eu ganho de verdade no mês. Hoje é tudo no feeling.",
+    "turn": 14
+   },
+   {
+    "claim": "P6 valoriza a simplicidade e a autonomia no gerenciamento de receitas",
+    "kind": "desejo",
+    "quote": "A planilha funciona. Eu não preciso de nada complicado.",
+    "turn": 6
+   },
+   {
+    "claim": "P6 tem baixa familiaridade com processos fiscais e contábeis",
+    "kind": "dor",
+    "quote": "Não fazia ideia de como. Pedi ajuda pra minha irmã, que é contadora, e mesmo assim deu erro no site duas vezes.",
+    "turn": 12
+   }
+  ]
+ }
+}

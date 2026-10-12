@@ -1,0 +1,62 @@
+{
+ "record": {
+  "key": "70829ae851a103dd",
+  "label": "extract P5",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 195.69,
+  "prompt_tokens": 732,
+  "completion_tokens": 626
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P5 enfrenta falta de pagamentos previsíveis e tem que depender de cheques especiais",
+    "kind": "dor",
+    "quote": "Eu já fiquei sem receber de um trabalho grande por noventa dias. Tive que entrar no cheque especial.",
+    "turn": 3
+   },
+   {
+    "claim": "P5 se sente vulnerável ao negociar preços com agências, tem medo de perder clientes",
+    "kind": "desejo",
+    "quote": "Se eu brigo, eles passam pra outra tradutora. Então eu escrevo um e-mail educado, espero, escrevo outro. Me sinto refém.",
+    "turn": 5
+   },
+   {
+    "claim": "P5 não reajusta seus preços há quatro anos por medo de perder clientes",
+    "kind": "desejo",
+    "quote": "Faz uns quatro anos que eu não reajusto, porque tenho medo de perder as agências. Vejo colega cobrando o dobro e fico na dúvida se eu que tô cobrando mal ou se elas que têm sorte.",
+    "turn": 7
+   },
+   {
+    "claim": "P5 enfrenta dificuldades técnicas com o sistema de notas fiscais anualmente",
+    "kind": "dor",
+    "quote": "Esse ano mudou o tal do padrão nacional e eu levei uma manhã pra conseguir emitir a primeira.",
+    "turn": 10
+   },
+   {
+    "claim": "P5 mantém uma conta separada para o trabalho desde que se tornou MEI",
+    "kind": "comportamento",
+    "quote": "Tenho conta separada pra trabalho faz tempo, desde que virei MEI. Isso eu aprendi cedo.",
+    "turn": 12
+   },
+   {
+    "claim": "P5 deseja previsibilidade no fluxo de caixa e segurança financeira",
+    "kind": "desejo",
+    "quote": "Ter previsibilidade. Saber que o dinheiro entra tal dia.",
+    "turn": 14
+   },
+   {
+    "claim": "P5 tem dificuldade em afirmar seu valor de mercado por medo de conflito",
+    "kind": "desejo",
+    "quote": "Fico na dúvida se eu que tô cobrando mal ou se elas que têm sorte.",
+    "turn": 7
+   },
+   {
+    "claim": "P5 precisa de autonomia para definir seus próprios preços e condições",
+    "kind": "desejo",
+    "quote": "Ter coragem de reajustar meu preço.",
+    "turn": 14
+   }
+  ]
+ }
+}

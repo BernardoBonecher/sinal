@@ -1,0 +1,1628 @@
+{
+ "meta": {
+  "model": "qwen/qwen3-4b-2507",
+  "created": "2026-10-12 03:15 UTC",
+  "interviews": 8,
+  "pattern_min": 3
+ },
+ "transcripts": [
+  {
+   "id": "P1",
+   "profile": "Designer gráfica, 31 anos, autônoma há 4 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Obrigada por topar. Pra começar, me conta como é o teu trabalho hoje."
+    },
+    {
+     "n": 2,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Eu faço identidade visual e material de redes sociais, principalmente pra pequenas marcas. Tenho uns seis clientes fixos e sempre aparece um projeto avulso."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E como funciona a parte de receber desses clientes?"
+    },
+    {
+     "n": 4,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Essa é a parte que eu menos gosto. Eu mando o orçamento, a pessoa aprova, eu entrego, e aí começa a novela. Tem cliente que paga no dia, mas tem cliente que eu preciso lembrar três, quatro vezes. Eu fico com vergonha de cobrar, parece que eu tô sendo chata."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Me conta a última vez que isso aconteceu."
+    },
+    {
+     "n": 6,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Mês passado. Uma loja de roupa me devia um projeto de oitocentos reais, já tinha passado vinte dias do combinado. Eu escrevi a mensagem de cobrança umas cinco vezes antes de mandar, apagava e reescrevia. No fim mandei um áudio todo simpático, tipo \"oi, tudo bem, só passando pra lembrar\". Pagaram uma semana depois."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E como você controla quem já pagou e quem não pagou?"
+    },
+    {
+     "n": 8,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Numa planilha do Google. Tem uma aba por mês, com cliente, valor, data que eu emiti a nota e se pagou ou não. Eu pinto de verde quando entra o dinheiro."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Sempre foi assim?"
+    },
+    {
+     "n": 10,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Não, já tentei uns aplicativos. Baixei um de controle financeiro, usei duas semanas e larguei. Ele queria que eu categorizasse tudo, cada café, e eu só queria saber quem me deve. A planilha é feia mas eu entendo ela."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Você comentou da nota. Como é essa parte?"
+    },
+    {
+     "n": 12,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Ai, a nota fiscal. Eu sou MEI, e todo mês é um sofrimento entrar no site da prefeitura. Cada vez a tela tá diferente, eu nunca lembro qual código de serviço usar. Uma vez emiti com o código errado e tive que cancelar e fazer de novo, perdi uma tarde nisso."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "O que você fez pra aprender?"
+    },
+    {
+     "n": 14,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Vídeo no YouTube e pergunta em grupo de designers. Cada um fala uma coisa. Até hoje eu não tenho certeza se tô fazendo certo, sinceramente."
+    },
+    {
+     "n": 15,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E o dinheiro, quando entra, vai pra onde?"
+    },
+    {
+     "n": 16,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Eu tenho uma conta PJ separada desde o ano passado, o banco digital abriu fácil. Então essa parte até tá organizada. Eu transfiro um \"salário\" pra mim todo dia cinco."
+    },
+    {
+     "n": 17,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Se você pudesse mudar uma coisa nessa rotina toda, o que seria?"
+    },
+    {
+     "n": 18,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Não ter que cobrar ninguém. Se o cliente pagasse sozinho na data, sem eu ter que lembrar, metade da minha ansiedade ia embora. E entender de uma vez essa nota, né."
+    },
+    {
+     "n": 19,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Tem mais alguma coisa que você queira contar?"
+    },
+    {
+     "n": 20,
+     "speaker": "P1",
+     "is_participant": true,
+     "text": "Acho que só que eu demoro muito pra mandar a cobrança porque tenho medo de perder o cliente. Já aceitei atraso que eu não devia aceitar por causa disso."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "profile": "Social media, 26 anos, autônomo há 2 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Valeu por aceitar. Me fala um pouco do teu trabalho."
+    },
+    {
+     "n": 2,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Eu cuido do Instagram e do TikTok de uns quatro clientes, restaurante, clínica de estética, uma academia. Faço o planejamento, as artes e respondo comentário."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Como você define quanto cobrar de cada um?"
+    },
+    {
+     "n": 4,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Sinceramente? No chute. Eu olho o que outras pessoas cobram em grupo de Facebook e tento ficar no meio. Mas cada cliente pede uma coisa diferente, e no fim eu nunca sei se tô cobrando pouco. Acho que tô, porque trabalho muito e sobra pouco."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Já aconteceu de perceber depois que cobrou pouco?"
+    },
+    {
+     "n": 6,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Direto. A academia, por exemplo, eu fechei num valor fixo e eles começaram a pedir vídeo todo dia. Fiquei com vergonha de renegociar e segui fazendo pelo mesmo preço uns seis meses."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E pra receber, como é?"
+    },
+    {
+     "n": 8,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Eles pagam por Pix, quando lembram. A clínica atrasa sempre uns dez, quinze dias. Eu mando mensagem, eles respondem \"vou ver com o financeiro\" e some. Eu odeio essa parte, me sinto pedindo favor pra receber pelo que eu já fiz."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E onde cai esse dinheiro?"
+    },
+    {
+     "n": 10,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Na minha conta normal, a mesma do meu salário de antes, do aluguel, de tudo. Eu não sei te dizer quanto eu ganhei com trabalho esse mês, porque tá tudo misturado com o resto. Às vezes eu acho que tenho dinheiro e na verdade é o dinheiro de um cliente que eu ainda vou ter que usar pra pagar ferramenta."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Então o imposto é o maior problema pra você?"
+    },
+    {
+     "n": 12,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Não, imposto eu nem penso muito, pago o DAS do MEI e pronto, é um valor fixo. O que me pega mesmo é não saber quanto eu ganho de verdade e quanto eu devia cobrar."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Você usa alguma ferramenta pra se organizar?"
+    },
+    {
+     "n": 14,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Uso o próprio aplicativo do banco, que mostra entrada e saída. Mas ele não separa o que é de trabalho, então não ajuda muito."
+    },
+    {
+     "n": 15,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Se a gente for continuar conversando, qual o melhor jeito de falar contigo?"
+    },
+    {
+     "n": 16,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Pode ser pelo e-mail [e-mail] ou no WhatsApp, [telefone]."
+    },
+    {
+     "n": 17,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Perfeito. Uma última pergunta: o que te deixaria mais tranquilo com dinheiro?"
+    },
+    {
+     "n": 18,
+     "speaker": "P2",
+     "is_participant": true,
+     "text": "Saber quanto cobrar sem ficar com medo, e ter o dinheiro do trabalho separado, nem que fosse numa caixinha. Hoje eu vivo no escuro."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "profile": "Desenvolvedor freelancer, 34 anos, autônomo há 6 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Obrigada pelo tempo. Como é o teu trabalho hoje?"
+    },
+    {
+     "n": 2,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Eu faço sistemas sob medida, a maioria pra empresas de fora do Brasil, e alguns projetos daqui. Trabalho sozinho, às vezes chamo um amigo pra ajudar."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Como funciona receber desses clientes?"
+    },
+    {
+     "n": 4,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Os de fora pagam certinho, por plataforma, na data. Os daqui também, no geral, porque eu cobro metade adiantado. Atraso não é muito meu problema, pra ser honesto."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E a parte de nota fiscal?"
+    },
+    {
+     "n": 6,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Aí complica. Pra cliente de fora eu nunca sei se preciso emitir nota de exportação de serviço, qual campo preencher. Já liguei pra prefeitura e a pessoa também não sabia. Eu emito do jeito que acho certo e fico torcendo."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E quando o dinheiro chega, como você organiza?"
+    },
+    {
+     "n": 8,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Mal. Cai tudo na minha conta pessoal. Eu tenho um cartão só, pago almoço com cliente, notebook, mercado, tudo no mesmo cartão. Na hora de declarar imposto de renda eu passo um fim de semana inteiro separando o que foi trabalho e o que não foi."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Por que nunca separou?"
+    },
+    {
+     "n": 10,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Preguiça, eu acho. E porque abrir conta de empresa sempre pareceu burocracia demais. Sei que devia."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Tem alguma coisa que você gostaria que fosse diferente na forma de receber?"
+    },
+    {
+     "n": 12,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Eu queria receber em cripto dos clientes de fora. A taxa de câmbio da plataforma come uns quatro por cento. Mas sei que isso é coisa minha, os outros freelas que eu conheço nem pensam nisso."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Você usa alguma ferramenta pra controlar tudo isso?"
+    },
+    {
+     "n": 14,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "Uma planilha que eu mesmo fiz, com script. Mas confesso que só atualizo quando lembro, umas duas vezes por ano."
+    },
+    {
+     "n": 15,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "O que mais te tira o sono nessa parte financeira?"
+    },
+    {
+     "n": 16,
+     "speaker": "P3",
+     "is_participant": true,
+     "text": "A nota de exportação e a bagunça na hora do imposto de renda. O resto eu levo."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "profile": "Fotógrafa de eventos, 38 anos, autônoma há 10 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Obrigado por receber a gente. Me conta da tua rotina de trabalho."
+    },
+    {
+     "n": 2,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Eu fotografo casamento, aniversário de quinze anos e alguns eventos de empresa. Na alta temporada são uns três eventos por fim de semana."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Como é a parte de receber?"
+    },
+    {
+     "n": 4,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Casamento é tranquilo, porque eu peço sinal e o resto até a data. Evento de empresa é que é o problema. Eles pagam com trinta, quarenta e cinco dias, e às vezes passa de sessenta. Eu já fiz evento em março e recebi em junho."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E o que você faz quando atrasa?"
+    },
+    {
+     "n": 6,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Eu mando e-mail pro financeiro, depois ligo, depois mando mensagem pra pessoa que me contratou. É constrangedor, porque é a pessoa que pode me indicar de novo. Eu fico pisando em ovos."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Como você controla esses recebimentos?"
+    },
+    {
+     "n": 8,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Num caderno e numa planilha no computador. O caderno fica na bolsa, a planilha eu atualizo no domingo. Já testei aplicativo de gestão pra fotógrafo, pago, mas era complicado demais e eu cancelei depois de dois meses."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E a contabilidade, impostos?"
+    },
+    {
+     "n": 10,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Eu tenho um contador desde que saí do MEI. Ele cuida da nota e do imposto. O problema é que ele custa caro pra mim, quase seiscentos reais por mês, e eu fico pensando se vale a pena."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "O dinheiro da empresa fica separado do seu?"
+    },
+    {
+     "n": 12,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Fica, o contador exigiu. Tenho conta da empresa e tiro pró-labore."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Se você pudesse resolver uma coisa, qual seria?"
+    },
+    {
+     "n": 14,
+     "speaker": "P4",
+     "is_participant": true,
+     "text": "Receber das empresas no prazo sem eu ter que ficar correndo atrás. Isso me desgasta mais do que o próprio trabalho."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "profile": "Tradutora, 45 anos, autônoma há 12 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Obrigada por participar. Como é o seu trabalho?"
+    },
+    {
+     "n": 2,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Eu traduzo documentos técnicos e contratos, inglês e espanhol. Trabalho com três agências e alguns clientes diretos."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E como as agências pagam?"
+    },
+    {
+     "n": 4,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Cada uma tem a sua regra. Uma paga no dia quinze do mês seguinte, outra só depois que o cliente final paga pra ela, o que pode levar dois meses. Eu já fiquei sem receber de um trabalho grande por noventa dias. Tive que entrar no cheque especial."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Você cobrou nesse caso?"
+    },
+    {
+     "n": 6,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Cobrei, mas com muito cuidado. Agência é quem me dá trabalho, se eu brigo, eles passam pra outra tradutora. Então eu escrevo um e-mail educado, espero, escrevo outro. Me sinto refém."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Como você decide o preço por trabalho?"
+    },
+    {
+     "n": 8,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Por palavra, mas o valor da palavra eu não sei se tá certo. Faz uns quatro anos que eu não reajusto, porque tenho medo de perder as agências. Vejo colega cobrando o dobro e fico na dúvida se eu que tô cobrando mal ou se elas que têm sorte."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E a parte de nota fiscal?"
+    },
+    {
+     "n": 10,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Pra cliente direto, eu emito nota de serviço. Todo ano muda alguma coisa no sistema e eu tenho que reaprender. Esse ano mudou o tal do padrão nacional e eu levei uma manhã pra conseguir emitir a primeira."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E o dinheiro, quando entra?"
+    },
+    {
+     "n": 12,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Tenho conta separada pra trabalho faz tempo, desde que virei MEI. Isso eu aprendi cedo."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Se pudesse mudar uma coisa, qual seria?"
+    },
+    {
+     "n": 14,
+     "speaker": "P5",
+     "is_participant": true,
+     "text": "Ter previsibilidade. Saber que o dinheiro entra tal dia. E ter coragem de reajustar meu preço."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "profile": "Personal trainer, 29 anos, autônomo há 3 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Obrigado por vir. Me conta como funciona teu trabalho."
+    },
+    {
+     "n": 2,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Eu atendo uns quinze alunos, a maioria em academia de condomínio e alguns online. Cada um paga uma mensalidade."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E como você recebe essas mensalidades?"
+    },
+    {
+     "n": 4,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Pix, todo começo de mês. A maioria paga direitinho, é coisa de duzentos, trezentos reais, ninguém fica devendo muito. Um ou outro esquece, eu lembro e pronto."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Onde você anota quem pagou?"
+    },
+    {
+     "n": 6,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Numa planilha que uma amiga me passou. Uma linha por aluno, uma coluna por mês. Funciona."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Então você gostaria de um app que cobrasse automaticamente os alunos?"
+    },
+    {
+     "n": 8,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Não sei, viu. Já baixei dois desses e larguei os dois. Eles cobram taxa por transação e os alunos estranham receber boleto de empresa. A planilha resolve."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E o dinheiro das mensalidades vai pra onde?"
+    },
+    {
+     "n": 10,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Pra minha conta mesmo, junto com tudo. Eu não sei separar o que é do trabalho e o que é meu. No fim do mês eu olho o saldo e se sobrou, sobrou. Já aconteceu de gastar o dinheiro que era pra renovar meu CREF."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E a parte de nota e imposto?"
+    },
+    {
+     "n": 12,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Eu sou MEI, mas nota eu quase nunca emito, porque aluno não pede. Quando uma empresa me contratou pra uma aula de ginástica laboral, eu precisei emitir e não fazia ideia de como. Pedi ajuda pra minha irmã, que é contadora, e mesmo assim deu erro no site duas vezes."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "O que te deixaria mais tranquilo?"
+    },
+    {
+     "n": 14,
+     "speaker": "P6",
+     "is_participant": true,
+     "text": "Saber quanto eu ganho de verdade no mês. Hoje é tudo no feeling."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "profile": "Editor de vídeo, 27 anos, autônomo há 3 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Valeu por participar. Como é o teu trabalho?"
+    },
+    {
+     "n": 2,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "Eu edito vídeo pra youtubers e algumas produtoras. Uns cinco clientes recorrentes e job avulso quando aparece."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E como é receber?"
+    },
+    {
+     "n": 4,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "Youtuber paga rápido, geralmente. Produtora é o terror. Eles falam \"a gente paga em trinta dias\" e na prática vira sessenta. Tem uma que me deve dois jobs até hoje, já faz quatro meses."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "O que você faz nesses casos?"
+    },
+    {
+     "n": 6,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "Eu cobro, mas fico sem graça. O mercado é pequeno, todo mundo se conhece. Se eu ganhar fama de chato, perco trabalho. Então eu espero mais do que devia."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "Como você acompanha o que tem pra receber?"
+    },
+    {
+     "n": 8,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "Planilha. Já tentei um aplicativo daqueles de freelancer, com contrato e tudo, mas era em inglês, cheio de função, e eu voltei pra planilha em uma semana."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E o dinheiro, separado ou junto?"
+    },
+    {
+     "n": 10,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "Junto. Eu sei que é errado. Uma vez achei que tinha dinheiro pra trocar de computador, troquei, e no mês seguinte faltou pra pagar o aluguel porque aquele dinheiro era adiantamento de um job que eu ainda nem tinha feito."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "E nota fiscal?"
+    },
+    {
+     "n": 12,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "As produtoras pedem e eu emito, é sempre o mesmo serviço, então já decorei. Isso não me incomoda."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistadora",
+     "is_participant": false,
+     "text": "O que você mudaria primeiro?"
+    },
+    {
+     "n": 14,
+     "speaker": "P7",
+     "is_participant": true,
+     "text": "Separar o dinheiro e ter um jeito menos constrangedor de cobrar as produtoras."
+    }
+   ]
+  },
+  {
+   "id": "P8",
+   "profile": "Arquiteta, 36 anos, autônoma há 5 anos",
+   "turns": [
+    {
+     "n": 1,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Obrigado pelo tempo. Me conta do teu trabalho."
+    },
+    {
+     "n": 2,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Eu faço projeto de interiores, principalmente apartamento. Uns dois ou três projetos por mês, e acompanhamento de obra."
+    },
+    {
+     "n": 3,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Como você cobra?"
+    },
+    {
+     "n": 4,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Por metro quadrado no projeto e uma taxa mensal no acompanhamento. Mas eu sempre fico na dúvida. Cada projeto dá um trabalho diferente, e cobrar por metro às vezes não paga as horas que eu gasto. Acho que trabalho de graça em metade das revisões."
+    },
+    {
+     "n": 5,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E o pagamento, como é?"
+    },
+    {
+     "n": 6,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Divido em parcelas. A primeira entra certinho, as últimas atrasam. Quando a obra começa, o cliente já gastou tudo com marceneiro e eu fico por último na fila. Eu cobro, mas o cliente fala \"assim que sobrar\" e eu não tenho coragem de parar o acompanhamento."
+    },
+    {
+     "n": 7,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "Como você se sente cobrando?"
+    },
+    {
+     "n": 8,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Mal. Parece que eu tô sendo mercenária, e eu tenho medo de queimar a indicação. Arquiteto vive de indicação."
+    },
+    {
+     "n": 9,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "E a parte de nota fiscal e imposto?"
+    },
+    {
+     "n": 10,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Isso me deixa insegura. Eu saí do MEI porque passei do limite e agora sou Simples. Não entendo direito o que muda. Cada mês o valor do imposto é diferente e eu não sei calcular antes, então não sei quanto posso tirar pra mim."
+    },
+    {
+     "n": 11,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "O dinheiro do trabalho fica separado?"
+    },
+    {
+     "n": 12,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Fica, a conta da empresa é separada desde que abri o CNPJ."
+    },
+    {
+     "n": 13,
+     "speaker": "Entrevistador",
+     "is_participant": false,
+     "text": "O que te ajudaria mais?"
+    },
+    {
+     "n": 14,
+     "speaker": "P8",
+     "is_participant": true,
+     "text": "Saber se meu preço tá certo e receber as últimas parcelas sem ficar mendigando."
+    }
+   ]
+  }
+ ],
+ "redactions": {
+  "P2": {
+   "email": 1,
+   "phone": 1
+  }
+ },
+ "insights": [
+  {
+   "claim": "P1 sente ansiedade ao cobrar clientes devido ao medo de perder o negócio.",
+   "kind": "dor",
+   "quote": "Acho que só que eu demoro muito pra mandar a cobrança porque tenho medo de perder o cliente.",
+   "turn": 20,
+   "id": "P1-1",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P1 enfrenta dificuldades para cobrar clientes devido à falta de confiança no processo de cobrança.",
+   "kind": "dor",
+   "quote": "Eu fico com vergonha de cobrar, parece que eu tô sendo chata.",
+   "turn": 4,
+   "id": "P1-2",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P1 precisa de um sistema simples para acompanhar o status de pagamentos, mas rejeita soluções complexas.",
+   "kind": "comportamento",
+   "quote": "Eu larguei. Ele queria que eu categorizasse tudo, cada café, e eu só queria saber quem me deve.",
+   "turn": 10,
+   "id": "P1-3",
+   "participant": "P1",
+   "status": "paraphrased",
+   "similarity": 0.994,
+   "nearest_turn": 10
+  },
+  {
+   "claim": "P1 tem um processo manual e desorganizado de emissão de notas fiscais, com risco de erros e perda de tempo.",
+   "kind": "dor",
+   "quote": "Uma vez emiti com o código errado e tive que cancelar e fazer de novo, perdi uma tarde nisso.",
+   "turn": 12,
+   "id": "P1-4",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P1 não tem confiança em processos oficiais como a emissão de notas fiscais, mesmo sendo MEI.",
+   "kind": "desejo",
+   "quote": "Até hoje eu não tenho certeza se tô fazendo certo, sinceramente.",
+   "turn": 14,
+   "id": "P1-5",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P1 deseja que os clientes paguem no prazo, sem necessidade de cobrança repetida.",
+   "kind": "desejo",
+   "quote": "Se o cliente pagasse sozinho na data, sem eu ter que lembrar, metade da minha ansiedade ia embora.",
+   "turn": 18,
+   "id": "P1-6",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P1 tem um sistema de controle financeiro básico, mas é manual e não escalável.",
+   "kind": "comportamento",
+   "quote": "Tem uma aba por mês, com cliente, valor, data que eu emiti a nota e se pagou ou não. Eu pinto de verde quando entra o dinheiro.",
+   "turn": 8,
+   "id": "P1-7",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P1 busca clareza e simplicidade em processos, rejeitando soluções que exigem categorização excessiva.",
+   "kind": "desejo",
+   "quote": "Eu só queria saber quem me deve. A planilha é feia mas eu entendo ela.",
+   "turn": 10,
+   "id": "P1-8",
+   "participant": "P1",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 não tem clareza sobre o valor que deveria cobrar por seus serviços",
+   "kind": "dor",
+   "quote": "Sinceramente? No chute. Eu olho o que outras pessoas cobram em grupo de Facebook e tento ficar no meio. Mas cada cliente pede uma coisa diferente, e no fim eu nunca sei se tô cobrando pouco. Acho que tô, porque trabalho muito e sobra pouco.",
+   "turn": 4,
+   "id": "P2-1",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 se sente obrigado a manter preços baixos por medo de perder clientes",
+   "kind": "dor",
+   "quote": "Direto. A academia, por exemplo, eu fechei num valor fixo e eles começaram a pedir vídeo todo dia. Fiquei com vergonha de renegociar e segui fazendo pelo mesmo preço uns seis meses.",
+   "turn": 6,
+   "id": "P2-2",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 enfrenta dificuldades para receber pagamentos devido à falta de estrutura",
+   "kind": "dor",
+   "quote": "Eles pagam por Pix, quando lembram. A clínica atrasa sempre uns dez, quinze dias. Eu mando mensagem, eles respondem \"vou ver com o financeiro\" e some. Eu odeio essa parte, me sinto pedindo favor pra receber pelo que eu já fiz.",
+   "turn": 8,
+   "id": "P2-3",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 não sabe quantos ganhos reais ele obtém do trabalho",
+   "kind": "dor",
+   "quote": "Eu não sei te dizer quanto eu ganhei com trabalho esse mês, porque tá tudo misturado com o resto. Às vezes eu acho que tenho dinheiro e na verdade é o dinheiro de um cliente que eu ainda vou ter que usar pra pagar ferramenta.",
+   "turn": 10,
+   "id": "P2-4",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 não tem controle sobre o fluxo de receitas e despesas",
+   "kind": "dor",
+   "quote": "O que me pega mesmo é não saber quanto eu ganho de verdade e quanto eu devia cobrar.",
+   "turn": 12,
+   "id": "P2-5",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 usa ferramentas limitadas para organizar receitas e despesas",
+   "kind": "comportamento",
+   "quote": "Uso o próprio aplicativo do banco, que mostra entrada e saída. Mas ele não separa o que é de trabalho, então não ajuda muito.",
+   "turn": 14,
+   "id": "P2-6",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P2 deseja ter clareza sobre o valor que cobra e sobre o dinheiro do trabalho",
+   "kind": "desejo",
+   "quote": "Saber quanto cobrar sem ficar com medo, e ter o dinheiro do trabalho separado, nem que fosse numa caixinha. Hoje eu vivo no escuro.",
+   "turn": 18,
+   "id": "P2-7",
+   "participant": "P2",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 não separa receitas do trabalho de despesas pessoais",
+   "kind": "dor",
+   "quote": "Cai tudo na minha conta pessoal. Eu tenho um cartão só, pago almoço com cliente, notebook, mercado, tudo no mesmo cartão.",
+   "turn": 8,
+   "id": "P3-1",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 vê a abertura de empresa como burocracia excessiva",
+   "kind": "desejo",
+   "quote": "Eu acho. E porque abrir conta de empresa sempre pareceu burocracia demais. Sei que devia.",
+   "turn": 10,
+   "id": "P3-2",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 enfrenta incertezas sobre a emissão de notas fiscais para clientes de fora",
+   "kind": "dor",
+   "quote": "Aí complica. Pra cliente de fora eu nunca sei se preciso emitir nota de exportação de serviço, qual campo preencher. Já liguei pra prefeitura e a pessoa também não sabia.",
+   "turn": 6,
+   "id": "P3-3",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 deseja receber pagamentos em criptomoeda para clientes internacionais",
+   "kind": "desejo",
+   "quote": "Eu queria receber em cripto dos clientes de fora. A taxa de câmbio da plataforma come uns quatro por cento.",
+   "turn": 12,
+   "id": "P3-4",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 tem baixa atualização de registros financeiros",
+   "kind": "comportamento",
+   "quote": "Mas confesso que só atualizo quando lembro, umas duas vezes por ano.",
+   "turn": 14,
+   "id": "P3-5",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 se sente sobrecarregado pela preparação do imposto de renda",
+   "kind": "dor",
+   "quote": "A bagunça na hora do imposto de renda. O resto eu levo.",
+   "turn": 16,
+   "id": "P3-6",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 não tem ferramenta confiável para controle financeiro",
+   "kind": "dor",
+   "quote": "Uma planilha que eu mesmo fiz, com script. Mas confesso que só atualizo quando lembro, umas duas vezes por ano.",
+   "turn": 14,
+   "id": "P3-7",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P3 considera a falta de estrutura financeira como um problema de preguiça, não de conhecimento",
+   "kind": "desejo",
+   "quote": "Preguiça, eu acho. E porque abrir conta de empresa sempre pareceu burocracia demais. Sei que devia.",
+   "turn": 10,
+   "id": "P3-8",
+   "participant": "P3",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P4 enfrenta atrasos de pagamento em eventos corporativos",
+   "kind": "dor",
+   "quote": "Eles pagam com trinta, quarenta e cinco dias, e às vezes passa de sessenta. Eu já fiz evento em março e recebi em junho.",
+   "turn": 4,
+   "id": "P4-1",
+   "participant": "P4",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P4 se sente constrangida ao tentar cobrar pagamentos atrasados",
+   "kind": "dor",
+   "quote": "É constrangedor, porque é a pessoa que pode me indicar de novo. Eu fico pisando em ovos.",
+   "turn": 6,
+   "id": "P4-2",
+   "participant": "P4",
+   "status": "verified_other_turn",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P4 usa métodos manuais para controlar recebimentos",
+   "kind": "comportamento",
+   "quote": "Num caderno e numa planilha no computador. O caderno fica na bolsa, a planilha eu atualizo no domingo.",
+   "turn": 8,
+   "id": "P4-3",
+   "participant": "P4",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P4 desistiu de um aplicativo de gestão devido à complexidade",
+   "kind": "comportamento",
+   "quote": "Já testei aplicativo de gestão pra fotógrafo, pago, mas era complicado demais e eu cancelei depois de dois meses.",
+   "turn": 8,
+   "id": "P4-4",
+   "participant": "P4",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P4 paga um contador caro para gerir impostos e notas",
+   "kind": "dor",
+   "quote": "Ele custa caro pra mim, quase seiscentos reais por mês, e eu fico pensando se vale a pena.",
+   "turn": 10,
+   "id": "P4-5",
+   "participant": "P4",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P4 mantém separação entre conta pessoal e da empresa",
+   "kind": "desejo",
+   "quote": "Fica, o contador exigiu. Tenho conta da empresa e tiro pró-labore.",
+   "turn": 12,
+   "id": "P4-6",
+   "participant": "P4",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "Atraso de pagamento é a principal fonte de desgaste emocional",
+   "kind": "dor",
+   "quote": "Receber das empresas no prazo sem eu ter que ficar correndo atrás. Isso me desgasta mais do que o próprio trabalho.",
+   "turn": 14,
+   "id": "P4-7",
+   "participant": "P4",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 enfrenta falta de pagamentos previsíveis e tem que depender de cheques especiais",
+   "kind": "dor",
+   "quote": "Eu já fiquei sem receber de um trabalho grande por noventa dias. Tive que entrar no cheque especial.",
+   "turn": 4,
+   "id": "P5-1",
+   "participant": "P5",
+   "status": "verified_other_turn",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 se sente vulnerável ao negociar preços com agências, tem medo de perder clientes",
+   "kind": "desejo",
+   "quote": "Se eu brigo, eles passam pra outra tradutora. Então eu escrevo um e-mail educado, espero, escrevo outro. Me sinto refém.",
+   "turn": 6,
+   "id": "P5-2",
+   "participant": "P5",
+   "status": "verified_other_turn",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 não reajusta seus preços há quatro anos por medo de perder clientes",
+   "kind": "desejo",
+   "quote": "Faz uns quatro anos que eu não reajusto, porque tenho medo de perder as agências. Vejo colega cobrando o dobro e fico na dúvida se eu que tô cobrando mal ou se elas que têm sorte.",
+   "turn": 8,
+   "id": "P5-3",
+   "participant": "P5",
+   "status": "verified_other_turn",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 enfrenta dificuldades técnicas com o sistema de notas fiscais anualmente",
+   "kind": "dor",
+   "quote": "Esse ano mudou o tal do padrão nacional e eu levei uma manhã pra conseguir emitir a primeira.",
+   "turn": 10,
+   "id": "P5-4",
+   "participant": "P5",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 mantém uma conta separada para o trabalho desde que se tornou MEI",
+   "kind": "comportamento",
+   "quote": "Tenho conta separada pra trabalho faz tempo, desde que virei MEI. Isso eu aprendi cedo.",
+   "turn": 12,
+   "id": "P5-5",
+   "participant": "P5",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 deseja previsibilidade no fluxo de caixa e segurança financeira",
+   "kind": "desejo",
+   "quote": "Ter previsibilidade. Saber que o dinheiro entra tal dia.",
+   "turn": 14,
+   "id": "P5-6",
+   "participant": "P5",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 tem dificuldade em afirmar seu valor de mercado por medo de conflito",
+   "kind": "desejo",
+   "quote": "Fico na dúvida se eu que tô cobrando mal ou se elas que têm sorte.",
+   "turn": 8,
+   "id": "P5-7",
+   "participant": "P5",
+   "status": "verified_other_turn",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P5 precisa de autonomia para definir seus próprios preços e condições",
+   "kind": "desejo",
+   "quote": "Ter coragem de reajustar meu preço.",
+   "turn": 14,
+   "id": "P5-8",
+   "participant": "P5",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P6 prefere manter o controle manual de pagamentos por simplicidade e confiança no sistema atual",
+   "kind": "comportamento",
+   "quote": "Já baixei dois desses e larguei os dois. Eles cobram taxa por transação e os alunos estranham receber boleto de empresa. A planilha resolve.",
+   "turn": 8,
+   "id": "P6-1",
+   "participant": "P6",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P6 não separa receitas do trabalho de suas despesas pessoais",
+   "kind": "dor",
+   "quote": "Eu não sei separar o que é do trabalho e o que é meu. No fim do mês eu olho o saldo e se sobrou, sobrou.",
+   "turn": 10,
+   "id": "P6-2",
+   "participant": "P6",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P6 tem dificuldade com a emissão de notas fiscais, mesmo sendo MEI",
+   "kind": "dor",
+   "quote": "Quase nunca emito, porque aluno não pede. Quando uma empresa me contratou pra uma aula de ginástica laboral, eu precisei emitir e não fazia ideia de como. Pedi ajuda pra minha irmã, que é contadora, e mesmo assim deu erro no site duas vezes.",
+   "turn": 12,
+   "id": "P6-3",
+   "participant": "P6",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P6 sente falta de transparência sobre seus ganhos reais",
+   "kind": "desejo",
+   "quote": "Saber quanto eu ganho de verdade no mês. Hoje é tudo no feeling.",
+   "turn": 14,
+   "id": "P6-4",
+   "participant": "P6",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P6 valoriza a simplicidade e a autonomia no gerenciamento de receitas",
+   "kind": "desejo",
+   "quote": "A planilha funciona. Eu não preciso de nada complicado.",
+   "turn": 6,
+   "id": "P6-5",
+   "participant": "P6",
+   "status": "not_found",
+   "similarity": 0.476,
+   "nearest_turn": 12
+  },
+  {
+   "claim": "P6 tem baixa familiaridade com processos fiscais e contábeis",
+   "kind": "dor",
+   "quote": "Não fazia ideia de como. Pedi ajuda pra minha irmã, que é contadora, e mesmo assim deu erro no site duas vezes.",
+   "turn": 12,
+   "id": "P6-6",
+   "participant": "P6",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P7 enfrenta atrasos de pagamento de produtoras, com casos de débitos de até quatro meses",
+   "kind": "dor",
+   "quote": "Tem uma que me deve dois jobs até hoje, já faz quatro meses.",
+   "turn": 4,
+   "id": "P7-1",
+   "participant": "P7",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P7 evita cobrar de forma direta por medo de perder clientes no mercado familiarizado",
+   "kind": "comportamento",
+   "quote": "Eu cobro, mas fico sem graça. O mercado é pequeno, todo mundo se conhece. Se eu ganhar fama de chato, perco trabalho.",
+   "turn": 6,
+   "id": "P7-2",
+   "participant": "P7",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P7 prefere usar planilha ao invés de ferramentas digitais devido à complexidade e ao idioma",
+   "kind": "desejo",
+   "quote": "já tentei um aplicativo daqueles de freelancer, com contrato e tudo, mas era em inglês, cheio de função, e eu voltei pra planilha em uma semana.",
+   "turn": 8,
+   "id": "P7-3",
+   "participant": "P7",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P7 mistura receitas de diferentes projetos, o que gera riscos financeiros",
+   "kind": "dor",
+   "quote": "no mês seguinte faltou pra pagar o aluguel porque aquele dinheiro era adiantamento de um job que eu ainda nem tinha feito.",
+   "turn": 10,
+   "id": "P7-4",
+   "participant": "P7",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P7 emite nota fiscal com regularidade, mesmo sem inconveniente",
+   "kind": "desejo",
+   "quote": "As produtoras pedem e eu emito, é sempre o mesmo serviço, então já decorei. Isso não me incomoda.",
+   "turn": 12,
+   "id": "P7-5",
+   "participant": "P7",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P7 deseja separar receitas por projeto para melhor controle financeiro",
+   "kind": "desejo",
+   "quote": "Separar o dinheiro e ter um jeito menos constrangedor de cobrar as produtoras.",
+   "turn": 14,
+   "id": "P7-6",
+   "participant": "P7",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P8 tem dificuldade em definir seu preço por projeto devido à variabilidade do trabalho",
+   "kind": "dor",
+   "quote": "Cada projeto dá um trabalho diferente, e cobrar por metro às vezes não paga as horas que eu gasto. Acho que trabalho de graça em metade das revisões.",
+   "turn": 4,
+   "id": "P8-1",
+   "participant": "P8",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P8 enfrenta atrasos no pagamento que comprometem sua confiança e estabilidade financeira",
+   "kind": "dor",
+   "quote": "A primeira entra certinho, as últimas atrasam. Quando a obra começa, o cliente já gastou tudo com marceneiro e eu fico por último na fila. Eu cobro, mas o cliente fala \"assim que sobrar\" e eu não tenho coragem de parar o acompanhamento.",
+   "turn": 6,
+   "id": "P8-2",
+   "participant": "P8",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P8 se sente desvalorizada por cobrar, tem medo de perder indicações",
+   "kind": "desejo",
+   "quote": "Mal. Parece que eu tô sendo mercenária, e eu tenho medo de queimar a indicação. Arquiteto vive de indicação.",
+   "turn": 8,
+   "id": "P8-3",
+   "participant": "P8",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P8 se insegura com o cálculo de impostos e não entende as mudanças do regime tributário",
+   "kind": "dor",
+   "quote": "Isso me deixa insegura. Eu saí do MEI porque passei do limite e agora sou Simples. Não entendo direito o que muda. Cada mês o valor do imposto é diferente e eu não sei calcular antes, então não sei quanto posso tirar pra mim.",
+   "turn": 10,
+   "id": "P8-4",
+   "participant": "P8",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P8 mantém separação de contas para garantir o dinheiro do trabalho",
+   "kind": "comportamento",
+   "quote": "Fica, a conta da empresa é separada desde que abri o CNPJ.",
+   "turn": 12,
+   "id": "P8-5",
+   "participant": "P8",
+   "status": "verified",
+   "similarity": 1.0
+  },
+  {
+   "claim": "P8 deseja ter clareza sobre seu preço e receber parcelas com segurança",
+   "kind": "desejo",
+   "quote": "Saber se meu preço tá certo e receber as últimas parcelas sem ficar mendigando.",
+   "turn": 14,
+   "id": "P8-6",
+   "participant": "P8",
+   "status": "verified",
+   "similarity": 1.0
+  }
+ ],
+ "themes": [
+  {
+   "name": "Dificuldade com cobrança e medo de perder clientes",
+   "summary": "Pessoas relatam medo de cobrar clientes, evitam cobrança direta e se sentem sobrecarregadas por atrasos de pagamento, especialmente em contextos familiares ou corporativos. O medo de perder clientes é um fator central na resistência a processos de cobrança claros e diretos.",
+   "insight_ids": [
+    "P1-1",
+    "P1-2",
+    "P2-2",
+    "P4-2",
+    "P7-2",
+    "P8-3"
+   ],
+   "participants": [
+    "P1",
+    "P2",
+    "P4",
+    "P7",
+    "P8"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Desorganização e processos manuais de controle financeiro",
+   "summary": "As pessoas usam métodos manuais para controlar receitas e despesas, têm sistemas básicos e não escaláveis, e muitas vezes não atualizam registros financeiros com frequência.",
+   "insight_ids": [
+    "P1-4",
+    "P1-7",
+    "P2-6",
+    "P3-5",
+    "P4-3",
+    "P6-2"
+   ],
+   "participants": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P6"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Falta de controle sobre fluxo de caixa e receitas",
+   "summary": "As pessoas não têm visibilidade sobre seus ganhos reais, não sabem quantos ganhos obtêm e não têm controle sobre o fluxo de receitas e despesas.",
+   "insight_ids": [
+    "P2-4",
+    "P2-5",
+    "P4-5",
+    "P6-4",
+    "P8-4"
+   ],
+   "participants": [
+    "P2",
+    "P4",
+    "P6",
+    "P8"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Falta de clareza sobre valor cobrado e preços",
+   "summary": "Muitos entrevistados não têm clareza sobre o valor que cobram, evitam reajustes de preços e se sentem vulneráveis ao negociar preços, com medo de perder clientes ou de serem desvalorizados.",
+   "insight_ids": [
+    "P2-1",
+    "P5-3",
+    "P8-1",
+    "P5-7",
+    "P8-6"
+   ],
+   "participants": [
+    "P2",
+    "P5",
+    "P8"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Dificuldade com emissão de notas fiscais e burocracia",
+   "summary": "Muitos relatam dificuldades técnicas e inseguranças com a emissão de notas fiscais, mesmo como MEI, e veem a abertura de empresa como burocracia excessiva.",
+   "insight_ids": [
+    "P1-5",
+    "P3-3",
+    "P3-6",
+    "P6-3"
+   ],
+   "participants": [
+    "P1",
+    "P3",
+    "P6"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Desejo de simplicidade e rejeição de complexidade",
+   "summary": "As pessoas preferem soluções simples, rejeitam ferramentas complexas ou com linguagem técnica, e valorizam transparência e clareza em processos financeiros.",
+   "insight_ids": [
+    "P1-8",
+    "P3-8",
+    "P7-3"
+   ],
+   "participants": [
+    "P1",
+    "P3",
+    "P7"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Atrasos de pagamento como fonte de desgaste emocional",
+   "summary": "Atrasos de pagamento são uma fonte significativa de estresse emocional, comprometem a confiança e afetam a estabilidade financeira.",
+   "insight_ids": [
+    "P4-7",
+    "P7-1",
+    "P8-2"
+   ],
+   "participants": [
+    "P4",
+    "P7",
+    "P8"
+   ],
+   "status": "pattern",
+   "unknown_ids": []
+  },
+  {
+   "name": "Mistura de receitas e despesas pessoais",
+   "summary": "Pessoas não conseguem separar receitas do trabalho de despesas pessoais, o que gera riscos financeiros e dificulta o controle de ganhos reais.",
+   "insight_ids": [
+    "P3-1",
+    "P7-4"
+   ],
+   "participants": [
+    "P3",
+    "P7"
+   ],
+   "status": "isolated",
+   "unknown_ids": []
+  },
+  {
+   "name": "Achados sem tema",
+   "summary": "O modelo não agrupou estes achados.",
+   "insight_ids": [
+    "P1-6",
+    "P2-3",
+    "P2-7",
+    "P3-2",
+    "P3-4",
+    "P3-7",
+    "P4-1",
+    "P4-4",
+    "P4-6",
+    "P5-1",
+    "P5-2",
+    "P5-4",
+    "P5-5",
+    "P5-6",
+    "P5-8",
+    "P6-1",
+    "P6-6",
+    "P7-5",
+    "P7-6",
+    "P8-5"
+   ],
+   "participants": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8"
+   ],
+   "status": "ungrouped",
+   "unknown_ids": []
+  }
+ ],
+ "calls": [
+  {
+   "key": "9451e371069ca8d2",
+   "label": "extract P1",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 343.67,
+   "prompt_tokens": 1079,
+   "completion_tokens": 667
+  },
+  {
+   "key": "802fb2bcacd442ba",
+   "label": "extract P2",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 318.24,
+   "prompt_tokens": 931,
+   "completion_tokens": 689
+  },
+  {
+   "key": "2775f7e13db5fb82",
+   "label": "extract P3",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 279.31,
+   "prompt_tokens": 805,
+   "completion_tokens": 631
+  },
+  {
+   "key": "9b40f7454b90ae08",
+   "label": "extract P4",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 243.72,
+   "prompt_tokens": 737,
+   "completion_tokens": 539
+  },
+  {
+   "key": "70829ae851a103dd",
+   "label": "extract P5",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 195.69,
+   "prompt_tokens": 732,
+   "completion_tokens": 626
+  },
+  {
+   "key": "b0b6d22a168e6239",
+   "label": "extract P6",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 219.11,
+   "prompt_tokens": 731,
+   "completion_tokens": 520
+  },
+  {
+   "key": "574a5c589dd49cd9",
+   "label": "extract P7",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 205.87,
+   "prompt_tokens": 687,
+   "completion_tokens": 498
+  },
+  {
+   "key": "b7c1300a8eb51443",
+   "label": "extract P8",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 224.98,
+   "prompt_tokens": 703,
+   "completion_tokens": 564
+  },
+  {
+   "key": "760930876fb9c5f3",
+   "label": "themes",
+   "model": "qwen/qwen3-4b-2507",
+   "seconds": 630.27,
+   "prompt_tokens": 1793,
+   "completion_tokens": 1329
+  }
+ ]
+}

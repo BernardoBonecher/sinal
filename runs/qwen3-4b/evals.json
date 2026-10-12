@@ -1,0 +1,129 @@
+{
+ "insights": 56,
+ "faithfulness": 0.964,
+ "statuses": {
+  "verified": 49,
+  "paraphrased": 1,
+  "verified_other_turn": 5,
+  "not_found": 1
+ },
+ "theme_recall": 0.8,
+ "theme_precision": 0.571,
+ "patterns_reported": 7,
+ "patterns": [
+  "Dificuldade com cobrança e medo de perder clientes",
+  "Desorganização e processos manuais de controle financeiro",
+  "Falta de controle sobre fluxo de caixa e receitas",
+  "Falta de clareza sobre valor cobrado e preços",
+  "Dificuldade com emissão de notas fiscais e burocracia",
+  "Desejo de simplicidade e rejeição de complexidade",
+  "Atrasos de pagamento como fonte de desgaste emocional"
+ ],
+ "grouped_share": 0.63,
+ "contradictions": 0,
+ "theme_matches": [
+  {
+   "golden": "late_payment",
+   "label": "Clientes atrasam e cobrar é constrangedor",
+   "expected": [
+    "P1",
+    "P2",
+    "P4",
+    "P5",
+    "P7",
+    "P8"
+   ],
+   "matched_theme": "Dificuldade com cobrança e medo de perder clientes",
+   "found": [
+    "P1",
+    "P2",
+    "P4",
+    "P7",
+    "P8"
+   ],
+   "score": 1.0,
+   "people_recall": 0.83,
+   "contradictions": []
+  },
+  {
+   "golden": "invoice_confusion",
+   "label": "Emitir nota fiscal é confuso",
+   "expected": [
+    "P1",
+    "P3",
+    "P5",
+    "P6",
+    "P8"
+   ],
+   "matched_theme": "Dificuldade com emissão de notas fiscais e burocracia",
+   "found": [
+    "P1",
+    "P3",
+    "P6"
+   ],
+   "score": 1.0,
+   "people_recall": 0.6,
+   "contradictions": []
+  },
+  {
+   "golden": "mixed_money",
+   "label": "Dinheiro do trabalho misturado com o pessoal",
+   "expected": [
+    "P2",
+    "P3",
+    "P6",
+    "P7"
+   ],
+   "matched_theme": null,
+   "found": [],
+   "score": 0.0,
+   "people_recall": 0.0,
+   "contradictions": []
+  },
+  {
+   "golden": "spreadsheet",
+   "label": "Planilha ou caderno como controle; apps abandonados",
+   "expected": [
+    "P1",
+    "P3",
+    "P4",
+    "P6",
+    "P7"
+   ],
+   "matched_theme": "Desorganização e processos manuais de controle financeiro",
+   "found": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P6"
+   ],
+   "score": 0.8,
+   "people_recall": 0.8,
+   "contradictions": []
+  },
+  {
+   "golden": "pricing",
+   "label": "Insegurança sobre quanto cobrar",
+   "expected": [
+    "P2",
+    "P5",
+    "P8"
+   ],
+   "matched_theme": "Falta de clareza sobre valor cobrado e preços",
+   "found": [
+    "P2",
+    "P5",
+    "P8"
+   ],
+   "score": 1.0,
+   "people_recall": 1.0,
+   "contradictions": []
+  }
+ ],
+ "trap_hits": [],
+ "pii_leaks": [],
+ "model_seconds": 2660.9,
+ "output_tokens": 6063,
+ "tokens_per_second": 2.3
+}

@@ -1,0 +1,62 @@
+{
+ "record": {
+  "key": "2775f7e13db5fb82",
+  "label": "extract P3",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 279.31,
+  "prompt_tokens": 805,
+  "completion_tokens": 631
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P3 não separa receitas do trabalho de despesas pessoais",
+    "kind": "dor",
+    "quote": "Cai tudo na minha conta pessoal. Eu tenho um cartão só, pago almoço com cliente, notebook, mercado, tudo no mesmo cartão.",
+    "turn": 8
+   },
+   {
+    "claim": "P3 vê a abertura de empresa como burocracia excessiva",
+    "kind": "desejo",
+    "quote": "Eu acho. E porque abrir conta de empresa sempre pareceu burocracia demais. Sei que devia.",
+    "turn": 10
+   },
+   {
+    "claim": "P3 enfrenta incertezas sobre a emissão de notas fiscais para clientes de fora",
+    "kind": "dor",
+    "quote": "Aí complica. Pra cliente de fora eu nunca sei se preciso emitir nota de exportação de serviço, qual campo preencher. Já liguei pra prefeitura e a pessoa também não sabia.",
+    "turn": 6
+   },
+   {
+    "claim": "P3 deseja receber pagamentos em criptomoeda para clientes internacionais",
+    "kind": "desejo",
+    "quote": "Eu queria receber em cripto dos clientes de fora. A taxa de câmbio da plataforma come uns quatro por cento.",
+    "turn": 12
+   },
+   {
+    "claim": "P3 tem baixa atualização de registros financeiros",
+    "kind": "comportamento",
+    "quote": "Mas confesso que só atualizo quando lembro, umas duas vezes por ano.",
+    "turn": 14
+   },
+   {
+    "claim": "P3 se sente sobrecarregado pela preparação do imposto de renda",
+    "kind": "dor",
+    "quote": "A bagunça na hora do imposto de renda. O resto eu levo.",
+    "turn": 16
+   },
+   {
+    "claim": "P3 não tem ferramenta confiável para controle financeiro",
+    "kind": "dor",
+    "quote": "Uma planilha que eu mesmo fiz, com script. Mas confesso que só atualizo quando lembro, umas duas vezes por ano.",
+    "turn": 14
+   },
+   {
+    "claim": "P3 considera a falta de estrutura financeira como um problema de preguiça, não de conhecimento",
+    "kind": "desejo",
+    "quote": "Preguiça, eu acho. E porque abrir conta de empresa sempre pareceu burocracia demais. Sei que devia.",
+    "turn": 10
+   }
+  ]
+ }
+}

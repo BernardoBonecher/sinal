@@ -1,0 +1,50 @@
+{
+ "record": {
+  "key": "574a5c589dd49cd9",
+  "label": "extract P7",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 205.87,
+  "prompt_tokens": 687,
+  "completion_tokens": 498
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P7 enfrenta atrasos de pagamento de produtoras, com casos de débitos de até quatro meses",
+    "kind": "dor",
+    "quote": "Tem uma que me deve dois jobs até hoje, já faz quatro meses.",
+    "turn": 4
+   },
+   {
+    "claim": "P7 evita cobrar de forma direta por medo de perder clientes no mercado familiarizado",
+    "kind": "comportamento",
+    "quote": "Eu cobro, mas fico sem graça. O mercado é pequeno, todo mundo se conhece. Se eu ganhar fama de chato, perco trabalho.",
+    "turn": 6
+   },
+   {
+    "claim": "P7 prefere usar planilha ao invés de ferramentas digitais devido à complexidade e ao idioma",
+    "kind": "desejo",
+    "quote": "já tentei um aplicativo daqueles de freelancer, com contrato e tudo, mas era em inglês, cheio de função, e eu voltei pra planilha em uma semana.",
+    "turn": 8
+   },
+   {
+    "claim": "P7 mistura receitas de diferentes projetos, o que gera riscos financeiros",
+    "kind": "dor",
+    "quote": "no mês seguinte faltou pra pagar o aluguel porque aquele dinheiro era adiantamento de um job que eu ainda nem tinha feito.",
+    "turn": 10
+   },
+   {
+    "claim": "P7 emite nota fiscal com regularidade, mesmo sem inconveniente",
+    "kind": "desejo",
+    "quote": "As produtoras pedem e eu emito, é sempre o mesmo serviço, então já decorei. Isso não me incomoda.",
+    "turn": 12
+   },
+   {
+    "claim": "P7 deseja separar receitas por projeto para melhor controle financeiro",
+    "kind": "desejo",
+    "quote": "Separar o dinheiro e ter um jeito menos constrangedor de cobrar as produtoras.",
+    "turn": 14
+   }
+  ]
+ }
+}

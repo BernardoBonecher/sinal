@@ -1,0 +1,115 @@
+{
+ "record": {
+  "key": "760930876fb9c5f3",
+  "label": "themes",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 630.27,
+  "prompt_tokens": 1793,
+  "completion_tokens": 1329
+ },
+ "parsed": {
+  "themes": [
+   {
+    "name": "Dificuldade com cobrança e medo de perder clientes",
+    "summary": "Pessoas relatam medo de cobrar clientes, evitam cobrança direta e se sentem sobrecarregadas por atrasos de pagamento, especialmente em contextos familiares ou corporativos. O medo de perder clientes é um fator central na resistência a processos de cobrança claros e diretos. (P1-1, P1-2, P2-2, P4-2,P",
+    "insight_ids": [
+     "P1-1",
+     "P1-2",
+     "P2-2",
+     "P4-2",
+     "P7-2",
+     "P8-3"
+    ]
+   },
+   {
+    "name": "Falta de clareza sobre valor cobrado e preços",
+    "summary": "Muitos entrevistados não têm clareza sobre o valor que cobram, evitam reajustes de preços e se sentem vulneráveis ao negociar preços, com medo de perder clientes ou de serem desvalorizados. (P2-1, P5-3, P8-1, P5-7, P8-6)",
+    "insight_ids": [
+     "P2-1",
+     "P5-3",
+     "P8-1",
+     "P5-7",
+     "P8-6"
+    ]
+   },
+   {
+    "name": "Desorganização e processos manuais de controle financeiro",
+    "summary": "As pessoas usam métodos manuais para controlar receitas e despesas, têm sistemas básicos e não escaláveis, e muitas vezes não atualizam registros financeiros com frequência. (P1-4, P1-7, P2-6, P3-5, P4-3, P6-2)",
+    "insight_ids": [
+     "P1-4",
+     "P1-7",
+     "P2-6",
+     "P3-5",
+     "P4-3",
+     "P6-2"
+    ]
+   },
+   {
+    "name": "Dificuldade com emissão de notas fiscais e burocracia",
+    "summary": "Muitos relatam dificuldades técnicas e inseguranças com a emissão de notas fiscais, mesmo como MEI, e veem a abertura de empresa como burocracia excessiva. (P1-5, P3-3, P3-6, P6-3)",
+    "insight_ids": [
+     "P1-5",
+     "P3-3",
+     "P3-6",
+     "P6-3"
+    ]
+   },
+   {
+    "name": "Falta de controle sobre fluxo de caixa e receitas",
+    "summary": "As pessoas não têm visibilidade sobre seus ganhos reais, não sabem quantos ganhos obtêm e não têm controle sobre o fluxo de receitas e despesas. (P2-4, P2-5, P4-5, P6-4, P8-4)",
+    "insight_ids": [
+     "P2-4",
+     "P2-5",
+     "P4-5",
+     "P6-4",
+     "P8-4"
+    ]
+   },
+   {
+    "name": "Insegurança com processos fiscais e impostos",
+    "summary": "Muitos se sentem inseguros com cálculos tributários, não entendem mudanças no regime tributário e têm baixa familiaridade com processos contábeis. (P3-6, P4-5, P8-4)",
+    "insight_ids": [
+     "P3-6",
+     "P4-5",
+     "P8-4"
+    ]
+   },
+   {
+    "name": "Mistura de receitas e despesas pessoais",
+    "summary": "Pessoas não conseguem separar receitas do trabalho de despesas pessoais, o que gera riscos financeiros e dificulta o controle de ganhos reais. (P3-1, P6-2, P7-4)",
+    "insight_ids": [
+     "P3-1",
+     "P6-2",
+     "P7-4"
+    ]
+   },
+   {
+    "name": "Desejo de simplicidade e rejeição de complexidade",
+    "summary": "As pessoas preferem soluções simples, rejeitam ferramentas complexas ou com linguagem técnica, e valorizam transparência e clareza em processos financeiros. (P1-8, P3-8, P7-3)",
+    "insight_ids": [
+     "P1-8",
+     "P3-8",
+     "P7-3"
+    ]
+   },
+   {
+    "name": "Dificuldade em definir preços e valor de mercado",
+    "summary": "As pessoas têm dificuldade em definir preços por projeto, com medo de perder indicações ou de serem desvalorizadas, e não reajustam preços há anos. (P8-1, P5-3, P8-3)",
+    "insight_ids": [
+     "P8-1",
+     "P5-3",
+     "P8-3"
+    ]
+   },
+   {
+    "name": "Atrasos de pagamento como fonte de desgaste emocional",
+    "summary": "Atrasos de pagamento são uma fonte significativa de estresse emocional, comprometem a confiança e afetam a estabilidade financeira. (P4-7, P7-1, P8-2)",
+    "insight_ids": [
+     "P4-7",
+     "P7-1",
+     "P8-2"
+    ]
+   }
+  ]
+ }
+}

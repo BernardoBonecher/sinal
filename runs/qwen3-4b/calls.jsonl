@@ -1,0 +1,9 @@
+{"key": "9451e371069ca8d2", "label": "extract P1", "model": "qwen/qwen3-4b-2507", "seconds": 343.67, "prompt_tokens": 1079, "completion_tokens": 667}
+{"key": "802fb2bcacd442ba", "label": "extract P2", "model": "qwen/qwen3-4b-2507", "seconds": 318.24, "prompt_tokens": 931, "completion_tokens": 689}
+{"key": "2775f7e13db5fb82", "label": "extract P3", "model": "qwen/qwen3-4b-2507", "seconds": 279.31, "prompt_tokens": 805, "completion_tokens": 631}
+{"key": "9b40f7454b90ae08", "label": "extract P4", "model": "qwen/qwen3-4b-2507", "seconds": 243.72, "prompt_tokens": 737, "completion_tokens": 539}
+{"key": "70829ae851a103dd", "label": "extract P5", "model": "qwen/qwen3-4b-2507", "seconds": 195.69, "prompt_tokens": 732, "completion_tokens": 626}
+{"key": "b0b6d22a168e6239", "label": "extract P6", "model": "qwen/qwen3-4b-2507", "seconds": 219.11, "prompt_tokens": 731, "completion_tokens": 520}
+{"key": "574a5c589dd49cd9", "label": "extract P7", "model": "qwen/qwen3-4b-2507", "seconds": 205.87, "prompt_tokens": 687, "completion_tokens": 498}
+{"key": "b7c1300a8eb51443", "label": "extract P8", "model": "qwen/qwen3-4b-2507", "seconds": 224.98, "prompt_tokens": 703, "completion_tokens": 564}
+{"key": "760930876fb9c5f3", "label": "themes", "model": "qwen/qwen3-4b-2507", "seconds": 630.27, "prompt_tokens": 1793, "completion_tokens": 1329}

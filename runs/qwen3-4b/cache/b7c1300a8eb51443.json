@@ -1,0 +1,50 @@
+{
+ "record": {
+  "key": "b7c1300a8eb51443",
+  "label": "extract P8",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 224.98,
+  "prompt_tokens": 703,
+  "completion_tokens": 564
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P8 tem dificuldade em definir seu preço por projeto devido à variabilidade do trabalho",
+    "kind": "dor",
+    "quote": "Cada projeto dá um trabalho diferente, e cobrar por metro às vezes não paga as horas que eu gasto. Acho que trabalho de graça em metade das revisões.",
+    "turn": 4
+   },
+   {
+    "claim": "P8 enfrenta atrasos no pagamento que comprometem sua confiança e estabilidade financeira",
+    "kind": "dor",
+    "quote": "A primeira entra certinho, as últimas atrasam. Quando a obra começa, o cliente já gastou tudo com marceneiro e eu fico por último na fila. Eu cobro, mas o cliente fala \"assim que sobrar\" e eu não tenho coragem de parar o acompanhamento.",
+    "turn": 6
+   },
+   {
+    "claim": "P8 se sente desvalorizada por cobrar, tem medo de perder indicações",
+    "kind": "desejo",
+    "quote": "Mal. Parece que eu tô sendo mercenária, e eu tenho medo de queimar a indicação. Arquiteto vive de indicação.",
+    "turn": 8
+   },
+   {
+    "claim": "P8 se insegura com o cálculo de impostos e não entende as mudanças do regime tributário",
+    "kind": "dor",
+    "quote": "Isso me deixa insegura. Eu saí do MEI porque passei do limite e agora sou Simples. Não entendo direito o que muda. Cada mês o valor do imposto é diferente e eu não sei calcular antes, então não sei quanto posso tirar pra mim.",
+    "turn": 10
+   },
+   {
+    "claim": "P8 mantém separação de contas para garantir o dinheiro do trabalho",
+    "kind": "comportamento",
+    "quote": "Fica, a conta da empresa é separada desde que abri o CNPJ.",
+    "turn": 12
+   },
+   {
+    "claim": "P8 deseja ter clareza sobre seu preço e receber parcelas com segurança",
+    "kind": "desejo",
+    "quote": "Saber se meu preço tá certo e receber as últimas parcelas sem ficar mendigando.",
+    "turn": 14
+   }
+  ]
+ }
+}

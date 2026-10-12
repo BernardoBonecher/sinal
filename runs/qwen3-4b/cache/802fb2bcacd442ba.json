@@ -1,0 +1,56 @@
+{
+ "record": {
+  "key": "802fb2bcacd442ba",
+  "label": "extract P2",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 318.24,
+  "prompt_tokens": 931,
+  "completion_tokens": 689
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P2 não tem clareza sobre o valor que deveria cobrar por seus serviços",
+    "kind": "dor",
+    "quote": "Sinceramente? No chute. Eu olho o que outras pessoas cobram em grupo de Facebook e tento ficar no meio. Mas cada cliente pede uma coisa diferente, e no fim eu nunca sei se tô cobrando pouco. Acho que tô, porque trabalho muito e sobra pouco.",
+    "turn": 4
+   },
+   {
+    "claim": "P2 se sente obrigado a manter preços baixos por medo de perder clientes",
+    "kind": "dor",
+    "quote": "Direto. A academia, por exemplo, eu fechei num valor fixo e eles começaram a pedir vídeo todo dia. Fiquei com vergonha de renegociar e segui fazendo pelo mesmo preço uns seis meses.",
+    "turn": 6
+   },
+   {
+    "claim": "P2 enfrenta dificuldades para receber pagamentos devido à falta de estrutura",
+    "kind": "dor",
+    "quote": "Eles pagam por Pix, quando lembram. A clínica atrasa sempre uns dez, quinze dias. Eu mando mensagem, eles respondem \"vou ver com o financeiro\" e some. Eu odeio essa parte, me sinto pedindo favor pra receber pelo que eu já fiz.",
+    "turn": 8
+   },
+   {
+    "claim": "P2 não sabe quantos ganhos reais ele obtém do trabalho",
+    "kind": "dor",
+    "quote": "Eu não sei te dizer quanto eu ganhei com trabalho esse mês, porque tá tudo misturado com o resto. Às vezes eu acho que tenho dinheiro e na verdade é o dinheiro de um cliente que eu ainda vou ter que usar pra pagar ferramenta.",
+    "turn": 10
+   },
+   {
+    "claim": "P2 não tem controle sobre o fluxo de receitas e despesas",
+    "kind": "dor",
+    "quote": "O que me pega mesmo é não saber quanto eu ganho de verdade e quanto eu devia cobrar.",
+    "turn": 12
+   },
+   {
+    "claim": "P2 usa ferramentas limitadas para organizar receitas e despesas",
+    "kind": "comportamento",
+    "quote": "Uso o próprio aplicativo do banco, que mostra entrada e saída. Mas ele não separa o que é de trabalho, então não ajuda muito.",
+    "turn": 14
+   },
+   {
+    "claim": "P2 deseja ter clareza sobre o valor que cobra e sobre o dinheiro do trabalho",
+    "kind": "desejo",
+    "quote": "Saber quanto cobrar sem ficar com medo, e ter o dinheiro do trabalho separado, nem que fosse numa caixinha. Hoje eu vivo no escuro.",
+    "turn": 18
+   }
+  ]
+ }
+}

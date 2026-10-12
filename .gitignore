@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+runs/probe/
+runs/*/run.log
+
+.claude/
+.vscode/
+.env
+.env.*
+Thumbs.db
+.DS_Store

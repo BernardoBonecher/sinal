@@ -1,0 +1,56 @@
+{
+ "record": {
+  "key": "9b40f7454b90ae08",
+  "label": "extract P4",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 243.72,
+  "prompt_tokens": 737,
+  "completion_tokens": 539
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P4 enfrenta atrasos de pagamento em eventos corporativos",
+    "kind": "dor",
+    "quote": "Eles pagam com trinta, quarenta e cinco dias, e às vezes passa de sessenta. Eu já fiz evento em março e recebi em junho.",
+    "turn": 4
+   },
+   {
+    "claim": "P4 se sente constrangida ao tentar cobrar pagamentos atrasados",
+    "kind": "dor",
+    "quote": "É constrangedor, porque é a pessoa que pode me indicar de novo. Eu fico pisando em ovos.",
+    "turn": 5
+   },
+   {
+    "claim": "P4 usa métodos manuais para controlar recebimentos",
+    "kind": "comportamento",
+    "quote": "Num caderno e numa planilha no computador. O caderno fica na bolsa, a planilha eu atualizo no domingo.",
+    "turn": 8
+   },
+   {
+    "claim": "P4 desistiu de um aplicativo de gestão devido à complexidade",
+    "kind": "comportamento",
+    "quote": "Já testei aplicativo de gestão pra fotógrafo, pago, mas era complicado demais e eu cancelei depois de dois meses.",
+    "turn": 8
+   },
+   {
+    "claim": "P4 paga um contador caro para gerir impostos e notas",
+    "kind": "dor",
+    "quote": "Ele custa caro pra mim, quase seiscentos reais por mês, e eu fico pensando se vale a pena.",
+    "turn": 10
+   },
+   {
+    "claim": "P4 mantém separação entre conta pessoal e da empresa",
+    "kind": "desejo",
+    "quote": "Fica, o contador exigiu. Tenho conta da empresa e tiro pró-labore.",
+    "turn": 12
+   },
+   {
+    "claim": "Atraso de pagamento é a principal fonte de desgaste emocional",
+    "kind": "dor",
+    "quote": "Receber das empresas no prazo sem eu ter que ficar correndo atrás. Isso me desgasta mais do que o próprio trabalho.",
+    "turn": 14
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "record": {
+  "key": "9451e371069ca8d2",
+  "label": "extract P1",
+  "model": "qwen/qwen3-4b-2507",
+  "seconds": 343.67,
+  "prompt_tokens": 1079,
+  "completion_tokens": 667
+ },
+ "parsed": {
+  "insights": [
+   {
+    "claim": "P1 sente ansiedade ao cobrar clientes devido ao medo de perder o negócio.",
+    "kind": "dor",
+    "quote": "Acho que só que eu demoro muito pra mandar a cobrança porque tenho medo de perder o cliente.",
+    "turn": 20
+   },
+   {
+    "claim": "P1 enfrenta dificuldades para cobrar clientes devido à falta de confiança no processo de cobrança.",
+    "kind": "dor",
+    "quote": "Eu fico com vergonha de cobrar, parece que eu tô sendo chata.",
+    "turn": 4
+   },
+   {
+    "claim": "P1 precisa de um sistema simples para acompanhar o status de pagamentos, mas rejeita soluções complexas.",
+    "kind": "comportamento",
+    "quote": "Eu larguei. Ele queria que eu categorizasse tudo, cada café, e eu só queria saber quem me deve.",
+    "turn": 10
+   },
+   {
+    "claim": "P1 tem um processo manual e desorganizado de emissão de notas fiscais, com risco de erros e perda de tempo.",
+    "kind": "dor",
+    "quote": "Uma vez emiti com o código errado e tive que cancelar e fazer de novo, perdi uma tarde nisso.",
+    "turn": 12
+   },
+   {
+    "claim": "P1 não tem confiança em processos oficiais como a emissão de notas fiscais, mesmo sendo MEI.",
+    "kind": "desejo",
+    "quote": "Até hoje eu não tenho certeza se tô fazendo certo, sinceramente.",
+    "turn": 14
+   },
+   {
+    "claim": "P1 deseja que os clientes paguem no prazo, sem necessidade de cobrança repetida.",
+    "kind": "desejo",
+    "quote": "Se o cliente pagasse sozinho na data, sem eu ter que lembrar, metade da minha ansiedade ia embora.",
+    "turn": 18
+   },
+   {
+    "claim": "P1 tem um sistema de controle financeiro básico, mas é manual e não escalável.",
+    "kind": "comportamento",
+    "quote": "Tem uma aba por mês, com cliente, valor, data que eu emiti a nota e se pagou ou não. Eu pinto de verde quando entra o dinheiro.",
+    "turn": 8
+   },
+   {
+    "claim": "P1 busca clareza e simplicidade em processos, rejeitando soluções que exigem categorização excessiva.",
+    "kind": "desejo",
+    "quote": "Eu só queria saber quem me deve. A planilha é feia mas eu entendo ela.",
+    "turn": 10
+   }
+  ]
+ }
+}

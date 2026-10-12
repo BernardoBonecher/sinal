@@ -1,0 +1,160 @@
+{
+  "_about": "Ground truth planted in data/interviews when they were written. Participants listed are the ones who express the theme; others either do not mention it or say the opposite. A reported theme matches a planted one only if it shares participants AND its insights mention one of the planted theme's keywords; matching is one-to-one.",
+  "themes": [
+    {
+      "id": "late_payment",
+      "label": "Clientes atrasam e cobrar é constrangedor",
+      "participants": [
+        "P1",
+        "P2",
+        "P4",
+        "P5",
+        "P7",
+        "P8"
+      ],
+      "counter": [
+        "P3",
+        "P6"
+      ],
+      "keywords": [
+        "cobr",
+        "atras",
+        "pag",
+        "receb"
+      ]
+    },
+    {
+      "id": "invoice_confusion",
+      "label": "Emitir nota fiscal é confuso",
+      "participants": [
+        "P1",
+        "P3",
+        "P5",
+        "P6",
+        "P8"
+      ],
+      "counter": [
+        "P7"
+      ],
+      "keywords": [
+        "nota"
+      ]
+    },
+    {
+      "id": "mixed_money",
+      "label": "Dinheiro do trabalho misturado com o pessoal",
+      "participants": [
+        "P2",
+        "P3",
+        "P6",
+        "P7"
+      ],
+      "counter": [
+        "P1",
+        "P4",
+        "P5",
+        "P8"
+      ],
+      "keywords": [
+        "mistur",
+        "separ",
+        "junto",
+        "conta pessoal",
+        "conta normal"
+      ]
+    },
+    {
+      "id": "spreadsheet",
+      "label": "Planilha ou caderno como controle; apps abandonados",
+      "participants": [
+        "P1",
+        "P3",
+        "P4",
+        "P6",
+        "P7"
+      ],
+      "counter": [],
+      "keywords": [
+        "planilha",
+        "caderno",
+        "aplicativo",
+        "app ",
+        "manual"
+      ]
+    },
+    {
+      "id": "pricing",
+      "label": "Insegurança sobre quanto cobrar",
+      "participants": [
+        "P2",
+        "P5",
+        "P8"
+      ],
+      "counter": [],
+      "keywords": [
+        "preço",
+        "precific",
+        "quanto cobrar",
+        "reajust",
+        "valor"
+      ]
+    }
+  ],
+  "singletons": [
+    {
+      "id": "crypto",
+      "label": "Receber em cripto",
+      "participant": "P3"
+    },
+    {
+      "id": "accountant_cost",
+      "label": "Contador caro",
+      "participant": "P4"
+    }
+  ],
+  "traps": [
+    {
+      "id": "tax_leading_question",
+      "participant": "P2",
+      "interviewer_suggested": "imposto é o maior problema",
+      "participant_said": "não, imposto eu nem penso muito",
+      "suspect_if": {
+        "kind": [
+          "dor"
+        ],
+        "claim_contains": [
+          "imposto"
+        ]
+      }
+    },
+    {
+      "id": "app_leading_question",
+      "participant": "P6",
+      "interviewer_suggested": "gostaria de um app que cobrasse automaticamente",
+      "participant_said": "não sei; já baixei dois e larguei; a planilha resolve",
+      "suspect_if": {
+        "kind": [
+          "desejo"
+        ],
+        "claim_contains": [
+          "app",
+          "aplicativo",
+          "automátic",
+          "automatic"
+        ]
+      }
+    }
+  ],
+  "pii": [
+    {
+      "participant": "P2",
+      "kind": "email",
+      "value": "lucas.midia@example.com"
+    },
+    {
+      "participant": "P2",
+      "kind": "phone",
+      "value": "(51) 90000-0000"
+    }
+  ]
+}
